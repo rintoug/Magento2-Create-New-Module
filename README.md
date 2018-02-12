@@ -1,6 +1,6 @@
 # Magento2-Create-New-Module
 Learn how to create a hello world module in Magento 2
-## Special commands while creating a custom modules
+## Special commands while creating a custom module
 
 To show all the modules with status in Magento 2
 ```php
